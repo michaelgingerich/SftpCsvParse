@@ -1,0 +1,8 @@
+10/7/2018 9:49:51 PM	The program has loaded the authentication configuration successfully.
+10/7/2018 9:52:49 PM	The program has loaded the authentication configuration successfully.
+10/7/2018 9:52:51 PM	The program has written d:\Michael\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\pending\0904201809000905.csv successfully.
+10/7/2018 9:52:51 PM	The program has written d:\Michael\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\pending\0904201809050910.csv successfully.
+10/7/2018 9:52:51 PM	The program has parsed d:\Michael\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\pending\0904201809000905.csv successfully.
+10/7/2018 9:52:51 PM	The program has moved 0904201809000905.csv successfully from the pending file cache at d:\Michael\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\pending to the complete file repository at d:\Michael\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\complete.
+10/7/2018 9:52:51 PM	The program has parsed d:\Michael\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\pending\0904201809050910.csv successfully.
+10/7/2018 9:52:51 PM	The program has moved 0904201809050910.csv successfully from the pending file cache at d:\Michael\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\pending to the complete file repository at d:\Michael\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\complete.
